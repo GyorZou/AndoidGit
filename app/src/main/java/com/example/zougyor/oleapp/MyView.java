@@ -15,6 +15,8 @@ import android.widget.LinearLayout;
 /**
  * TODO: document your custom view class.
  */
+
+
 public class MyView extends LinearLayout {
     private String mExampleString; // TODO: use a default from R.string...
     private int mExampleColor = Color.RED; // TODO: use a default from R.color...
